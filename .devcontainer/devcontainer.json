@@ -32,7 +32,8 @@
 				"ms-python.python",
 				"ms-python.vscode-pylance",
 				"GitHub.copilot",
-				"ms-vscode.makefile-tools"
+				"ms-vscode.makefile-tools",
+				"github.vscode-github-actions"
 			]
 		}
 	},
