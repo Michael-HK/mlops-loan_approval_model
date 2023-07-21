@@ -1,6 +1,6 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526669888)
 
-# Python Codespace Template
+# End-to-end Machine learning model for Loan approval prediction Model using MLOPS approach
 
 _Create or extend a ready-to-use repository for teaching Python in minutes_
 
