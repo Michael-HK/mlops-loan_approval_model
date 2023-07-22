@@ -1,6 +1,17 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526669888)
 
 # End-to-end Machine learning model for Loan approval prediction Model using MLOPS approach
+A loan approval prediction model is developed in this project using MLOPs template. The trained model endpoint is initiated using a flask module, and the model was packaged using a Docker. To ensure Continuous Integration (CI), GitHub Actions is introduced with the help of Makefile. 
+
+After successful training, **xgboost** classifier is the best performed model.
+
+The Jupyter notebook file contains all the applicable explanatory data analyses that were carried out during the training of the model, including hyperparameter tunning using gridsearchCV, and models feature important using shap module.
+
+
+
+
+
+
 
 _Create or extend a ready-to-use repository for teaching Python in minutes_
 
