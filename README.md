@@ -7,7 +7,7 @@ After successful training, **xgboost** classifier is the best performed model.
 
 The Jupyter notebook file contains all the applicable explanatory data analyses that were carried out during the training of the model, including hyperparameter tunning using gridsearchCV, and models feature important using shap module.
 
-
+![alt text](https://github.com/Michael-HK/mlops-loan_approval_model/blob/main/images/EDA.png?raw=true)
 
 
 
