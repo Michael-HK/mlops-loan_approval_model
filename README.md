@@ -12,6 +12,9 @@ The Jupyter notebook file contains all the applicable explanatory data analyses 
 * **Feature Importance on the model prediction**
 ![alt text](https://github.com/Michael-HK/mlops-loan_approval_model/blob/main/images/feature_waterfall.png?raw=true)
 
+more on Feature importance
+![alt text](https://github.com/Michael-HK/mlops-loan_approval_model/blob/main/images/feat_water.png?raw=true)
+
 
 _Create or extend a ready-to-use repository for teaching Python in minutes_
 
