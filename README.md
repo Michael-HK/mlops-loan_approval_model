@@ -9,8 +9,8 @@ The Jupyter notebook file contains all the applicable explanatory data analyses 
 * **EDA Analysis**
 ![alt text](https://github.com/Michael-HK/mlops-loan_approval_model/blob/main/images/EDA.png?raw=true)
 
-
-
+* **Feature Importance on the model prediction**
+![alt text](https://github.com/Michael-HK/mlops-loan_approval_model/blob/main/images/feature_waterfall.png?raw=true)
 
 
 _Create or extend a ready-to-use repository for teaching Python in minutes_
