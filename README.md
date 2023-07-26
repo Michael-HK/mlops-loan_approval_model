@@ -24,6 +24,7 @@ more on Feature importance
 
 * **Automated Machine learning pipeline using AWS Sagemaker**
 ![alt text](https://github.com/Michael-HK/mlops-loan_approval_model/blob/main/images/aws%20sagemaker.png?raw=true)
+
  An automated machine learning pipeline code was written in a notebook which can be deployed on AWS Sagemaker.
  The pipeline is illustrated as shown:
 ![alt text](https://github.com/Michael-HK/mlops-loan_approval_model/blob/main/images/MLflow.png?raw=true) 
