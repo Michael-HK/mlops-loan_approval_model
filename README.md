@@ -22,7 +22,8 @@ The Jupyter notebook file contains all the applicable explanatory data analyses 
 more on Feature importance
 ![alt text](https://github.com/Michael-HK/mlops-loan_approval_model/blob/main/images/feat_water.png?raw=true)
 
-
+* **Automated Machine learning pipeline using AWS Sagemaker**
+An automated machine learning pipeline code was written in a notebook which can be deployed on AWS Sagemaker
 _Create or extend a ready-to-use repository for teaching Python in minutes_
 
 * **Who is this for?** _Educators of all levels_. 
